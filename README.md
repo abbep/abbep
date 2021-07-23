@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**abbep/abbep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m a retired layer 2 developer in tele- and datacom
 - 🌱 I’m a Linux user using Emacs to do assembler, C and Python coding
