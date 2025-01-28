@@ -7,4 +7,4 @@
 - 🤔 And I’m still learning ...
 
 - 📫 How to reach me: abbep56@gmail.com
-- 😄 I have a Twitter account I'm using to explore other's interresting stuff
+- 😄 I'm often using Youtube to learn about things and explore other's interresting stuff
